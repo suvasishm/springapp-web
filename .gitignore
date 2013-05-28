@@ -1,0 +1,6 @@
+# ignore all files in the target/ directory
+target/
+.classpath
+.project
+.settings/
+clean.bat
